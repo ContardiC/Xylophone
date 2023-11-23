@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Xylophon</string>
+    <string name="button_label_a">A</string>
+    <string name="button_label_b">B</string>
+    <string name="button_label_c">C</string>
+    <string name="button_label_d">D</string>
+    <string name="button_label_e">E</string>
+    <string name="button_label_f">F</string>
+    <string name="button_label_g">G</string>
+</resources>
